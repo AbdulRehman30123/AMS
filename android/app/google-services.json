@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1095690596356",
+    "project_id": "attandancemanagementsyst-17486",
+    "storage_bucket": "attandancemanagementsyst-17486.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095690596356:android:e4051c0d8150c05c9d8551",
+        "android_client_info": {
+          "package_name": "com.example.ams"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1095690596356-1rlaf9u8n833ocjeemuurfc603oeaj0r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAApn3pNA-eFLWz7R2Hy0jutPEQobgyMCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1095690596356-1rlaf9u8n833ocjeemuurfc603oeaj0r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
